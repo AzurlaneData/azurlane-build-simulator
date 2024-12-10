@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/azurlane-build-simulator/static/css/main.2ad592c5.css",
-    "main.js": "/azurlane-build-simulator/static/js/main.eb0e4505.js",
+    "main.js": "/azurlane-build-simulator/static/js/main.ee2cfa01.js",
     "static/js/453.cf7093f5.chunk.js": "/azurlane-build-simulator/static/js/453.cf7093f5.chunk.js",
     "index.html": "/azurlane-build-simulator/index.html",
     "main.2ad592c5.css.map": "/azurlane-build-simulator/static/css/main.2ad592c5.css.map",
-    "main.eb0e4505.js.map": "/azurlane-build-simulator/static/js/main.eb0e4505.js.map",
+    "main.ee2cfa01.js.map": "/azurlane-build-simulator/static/js/main.ee2cfa01.js.map",
     "453.cf7093f5.chunk.js.map": "/azurlane-build-simulator/static/js/453.cf7093f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad592c5.css",
-    "static/js/main.eb0e4505.js"
+    "static/js/main.ee2cfa01.js"
   ]
 }
