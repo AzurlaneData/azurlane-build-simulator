@@ -1,0 +1,755 @@
+﻿[
+    {
+        "bid": 0,
+        "bName": "輕型艦建造",
+        "lists": [
+            [5, 6, 8, 9, 15, 16, 17, 29, 30, 86, 87, 88, 89, 90, 91, 104, 182, 238, 239, 240, 271, 272, 274],
+            [
+                11, 27, 31, 32, 34, 35, 81, 82, 83, 105, 106, 110, 171, 173, 176, 241, 264, 269, 270, 277, 293, 306, 307, 310, 316, 317, 318, 319, 331, 332, 348, 351, 362, 363, 366, 369, 372, 373,
+                407, 409, 417, 423, 448, 507
+            ],
+            [
+                10, 19, 96, 101, 112, 118, 151, 152, 155, 179, 185, 236, 257, 286, 305, 330, 335, 379, 390, 391, 405, 420, 424, 431, 434, 444, 452, 457, 460, 486, 490, 491, 493, 494, 495, 497, 498,
+                504, 505, 506, 509, 514, 523, 557
+            ],
+            [36, 115, 232, 262, 322, 329, 393, 433, 435, 436, 445, 454, 463, 468, 475, 476, 501, 508, 517, 518, 522, 525, 530, 533, 556, 569, 577],
+            []
+        ],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [],
+        "pickupPercentages": [],
+        "combinedBid": []
+    },
+    {
+        "bid": 1,
+        "bName": "重型艦建造",
+        "lists": [
+            [29, 30, 39, 52, 53, 104, 192, 193, 238, 239, 240],
+            [41, 42, 44, 54, 58, 59, 120, 121, 122, 123, 128, 210, 211, 241, 337],
+            [43, 45, 49, 55, 119, 124, 125, 126, 127, 130, 132, 133, 149, 150, 205, 207, 242, 245, 336, 352, 382, 383, 384, 412, 451, 464, 478, 524],
+            [50, 129, 131, 195, 200, 214, 244, 401, 410, 413, 418, 425, 440, 441, 443, 453, 455, 461, 483, 489, 496, 500, 512, 527],
+            [68, 231, 268, 529]
+        ],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [],
+        "pickupPercentages": [],
+        "combinedBid": []
+    },
+    {
+        "bid": 2,
+        "bName": "特型艦建造",
+        "lists": [
+            [29, 30, 39, 71, 72, 75, 104, 140, 192, 193, 238, 239, 240],
+            [41, 42, 44, 70, 120, 121, 122, 123, 241],
+            [43, 45, 49, 73, 74, 76, 78, 80, 119, 124, 142, 143, 144, 339, 340, 350, 384, 385, 396, 397, 400, 416, 459, 470, 471, 472, 473, 477, 485, 516, 519, 526, 534, 579],
+            [77, 145, 146, 147, 230, 232, 252, 338, 341, 343, 356, 357, 378, 381, 398, 399, 419, 426, 442, 462, 474, 482, 484, 502, 511, 513, 520, 555, 570, 578],
+            [68, 231, 268, 529]
+        ],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [],
+        "pickupPercentages": [],
+        "combinedBid": []
+    },
+    {
+        "bid": 3,
+        "bName": "努力、希望和計畫",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [135, 201, 103, 128],
+        "pickupPercentages": [2.25, 1.75, 3.5, 10],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 4,
+        "bName": "異色格",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [252, 343, 267, 237, 345, 242, 264],
+        "pickupPercentages": [2, 2, 1.5, 2.5, 2.5, 2.5, 5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 5,
+        "bName": "紅染的參訪者",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [228, 166, 229, 170, 188, 210, 211],
+        "pickupPercentages": [2, 2, 0.7, 4, 2.5, 6.75, 6.75],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 6,
+        "bName": "歸來與新生",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [320, 205, 318, 177, 178],
+        "pickupPercentages": [2, 2.5, 5, 5, 5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 7,
+        "bName": "墜落之翼",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [64, 364, 63, 60, 61, 363, 362],
+        "pickupPercentages": [2, 2, 2, 2.5, 2.5, 5, 5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 8,
+        "bName": "2018春節",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [257, 255, 256],
+        "pickupPercentages": [2, 2, 2],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 9,
+        "bName": "凜冬王冠",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [146, 371, 325, 111, 328],
+        "pickupPercentages": [2.25, 2, 2.5, 2.5, 5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 10,
+        "bName": "光榮的一戰",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [148],
+        "pickupPercentages": [1.4],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 11,
+        "bName": "圍剿斯佩伯爵",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [246],
+        "pickupPercentages": [1.4],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 12,
+        "bName": "墨染的鋼鐵之花",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [212, 381, 288, 382, 297, 296, 277, 331],
+        "pickupPercentages": [2, 2, 1.8, 2.5, 2.5, 2.5, 5, 5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 13,
+        "bName": "光與影的鳶尾之華",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [353, 394, 354, 395, 352, 350, 348],
+        "pickupPercentages": [1.8, 2, 1.8, 2.5, 2.5, 2.5, 5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 14,
+        "bName": "盛夏的半人馬座",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [356],
+        "pickupPercentages": [2],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 15,
+        "bName": "大青花魚的塗鴉板",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [357, 230, 358, 359],
+        "pickupPercentages": [1.8, 1.8, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 16,
+        "bName": "斯圖爾特的硝煙",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [223],
+        "pickupPercentages": [1.4],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 17,
+        "bName": "蒼紅的回響",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [367, 215, 368, 198, 449, 450, 369, 310],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5, 2.5, 5, 5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 18,
+        "bName": "2019春節",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [255, 256, 375, 376, 374, 372, 373],
+        "pickupPercentages": [1.5, 1.5, 1.5, 1.5, 3.5, 3.5, 3.5],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 19,
+        "bName": "特別演習•埃塞克斯級",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [357, 378, 398, 399, 396, 397, 400],
+        "pickupPercentages": [1.5, 1.5, 1.5, 1.5, 2.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 20,
+        "bName": "峽灣間的星辰",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [379, 96],
+        "pickupPercentages": [1.4, 1.4],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 21,
+        "bName": "鐵血、音符&誓言",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [250, 467, 134, 466, 388, 386, 387, 389],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5, 2.5, 2.5, 5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 22,
+        "bName": "明日之星•閃亮登場",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [391, 390],
+        "pickupPercentages": [2.5, 2.5],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 23,
+        "bName": "潛艇限時建造",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [399, 398, 400, 396, 397],
+        "pickupPercentages": [2, 2, 2.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 24,
+        "bName": "箱庭療法",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [50, 401, 508, 405, 509, 406],
+        "pickupPercentages": [2, 2, 2, 2.5, 2.5, 5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 25,
+        "bName": "建造池新增(黑太子&貝奇)",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [408, 407],
+        "pickupPercentages": [2.5, 5],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 26,
+        "bName": "神聖的悲喜劇",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [147, 413, 489, 410, 490, 412],
+        "pickupPercentages": [2, 2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 27,
+        "bName": "最珍貴的寶物",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [416],
+        "pickupPercentages": [1.4],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 28,
+        "bName": "建造池新增(斯莫利)",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [417],
+        "pickupPercentages": [5],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 29,
+        "bName": "激奏的Polaris",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [418, 419, 422, 420],
+        "pickupPercentages": [2, 2, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 30,
+        "bName": "建造池新增(格拉斯哥)",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [423],
+        "pickupPercentages": [5],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 31,
+        "bName": "浮櫻影華",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [425, 426, 517, 322, 424, 152, 186],
+        "pickupPercentages": [2, 2, 2, 0.5, 2.5, 2.5, 0.7],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 32,
+        "bName": "戰鬥！皇家女僕隊2nd",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [107, 113, 428, 427],
+        "pickupPercentages": [2, 2.5, 2.5, 5],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 33,
+        "bName": "北境序曲",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [441, 433, 262, 436, 431, 434],
+        "pickupPercentages": [2, 2, 1.5, 0.5, 2.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 34,
+        "bName": "微層混合",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [442, 445, 518, 443, 444, 519, 448],
+        "pickupPercentages": [2, 2, 2, 0.5, 2.5, 2.5, 5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 35,
+        "bName": "夜幕下的歸途",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [452],
+        "pickupPercentages": [1.4],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 36,
+        "bName": "穹頂下的聖詠曲",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [453, 455, 522, 454, 457, 523],
+        "pickupPercentages": [2, 2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 37,
+        "bName": "峽灣的反擊",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [460],
+        "pickupPercentages": [1.4],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 38,
+        "bName": "永夜幻光",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [461, 462, 463, 143, 464],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 39,
+        "bName": "蝶海夢花",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [231, 468, 214, 472, 47, 471],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 40,
+        "bName": "劃破海空之翼",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [473],
+        "pickupPercentages": [1.4],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 41,
+        "bName": "激唱的UNIVERSE",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [475, 476, 474, 478, 477],
+        "pickupPercentages": [2, 2, 2, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 42,
+        "bName": "負象限作戰",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [482, 483, 484, 486, 485],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 43,
+        "bName": "2021春節",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [495, 494, 493],
+        "pickupPercentages": [2.5, 2.5, 2.5],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 44,
+        "bName": "破曉冰華",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [440, 435, 496, 498, 497],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 45,
+        "bName": "復興的讚美詩",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [500, 502, 501, 506, 504, 505],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 46,
+        "bName": "鏡位螺旋",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [68, 512, 513, 511, 514],
+        "pickupPercentages": [1.2, 2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 47,
+        "bName": "碧海光粼",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [268, 520, 195, 185, 286],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 48,
+        "bName": "傑諾瓦的焰火",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [524],
+        "pickupPercentages": [1.4],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 49,
+        "bName": "逆轉彩虹之塔",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [529, 527, 525, 526],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 50,
+        "bName": "演習神秘事件調查",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [533, 530, 534],
+        "pickupPercentages": [2, 2, 2.5],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 51,
+        "bName": "深度回音",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [539, 538, 535, 536],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 52,
+        "bName": "虛像構築之塔·序章",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [540, 147, 541, 542],
+        "pickupPercentages": [2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 53,
+        "bName": "虹彩的終幕曲",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [544, 547, 543, 548, 546],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 54,
+        "bName": "泠誓光庭",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [137, 553, 550, 554],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 55,
+        "bName": "來自鳶尾的天使",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [555, 556, 557],
+        "pickupPercentages": [2, 2, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 56,
+        "bName": "雄鷹的敘事歌",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [561, 558, 559, 562, 560],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 57,
+        "bName": "遠匯點作戰",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [566, 243, 564],
+        "pickupPercentages": [2, 0.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 58,
+        "bName": "紫絳槿嵐",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [217, 324, 567, 199],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 59,
+        "bName": "戰鬥！皇家女仆隊3rd？",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [570, 569, 112],
+        "pickupPercentages": [2, 2, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 60,
+        "bName": "定向摺疊",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [574, 575, 572, 576],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 61,
+        "bName": "冬日的尋路人",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [577, 578, 579],
+        "pickupPercentages": [2, 2, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 62,
+        "bName": "湮燼塵墟",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [581, 584, 582, 583],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 63,
+        "bName": "極地風暴",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [588, 586, 587],
+        "pickupPercentages": [2, 2, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 64,
+        "bName": "空相交匯點",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [593, 592, 590, 30021],
+        "pickupPercentages": [1.2, 2, 2, 0.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 65,
+        "bName": "綠洲往事",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [597, 596, 595],
+        "pickupPercentages": [2, 2, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 66,
+        "bName": "愚者的天平",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [604, 603, 599, 602, 600],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 67,
+        "bName": "須臾望月抄",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [605, 606, 607, 184],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 68,
+        "bName": "颶風與青春之泉",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [610, 613, 611, 614],
+        "pickupPercentages": [2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 69,
+        "bName": "星海逐光",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [616, 617, 620, 618],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 70,
+        "bName": "寰昌宇定家事忙",
+        "lists": [],
+        "percentages": [55, 26, 12, 7, 0],
+        "pickups": [621, 622, 623, 624],
+        "pickupPercentages": [2, 2, 2, 2],
+        "combinedBid": [0]
+    },
+    {
+        "bid": 71,
+        "bName": "雪境迷蹤",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [438, 626, 30030, 628],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 72,
+        "bName": "從零開始的魔王討伐之旅",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [640, 630, 631],
+        "pickupPercentages": [2, 2, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 73,
+        "bName": "共鳴的PASSION",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [633, 635, 634, 636, 638],
+        "pickupPercentages": [2, 2, 0.5, 2.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 74,
+        "bName": "綻放於輝光之城",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [641, 643, 30033, 645],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 75,
+        "bName": "歡迎來到童心學院",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [648, 649, 650],
+        "pickupPercentages": [2, 2, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 76,
+        "bName": "幻夢間奏曲",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [652, 653, 654],
+        "pickupPercentages": [2, 0.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 77,
+        "bName": "鐵翼擎風",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [655, 66, 657, 659],
+        "pickupPercentages": [2, 2, 0.5, 2.5],
+        "combinedBid": [1]
+    },
+    {
+        "bid": 78,
+        "bName": "埋葬於彼岸之花",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [221],
+        "pickupPercentages": [1.4],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 79,
+        "bName": "喚醒蒼紅之炎",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [660, 661, 30038, 663],
+        "pickupPercentages": [1.2, 2, 0.5, 2.5],
+        "combinedBid": [2]
+    },
+    {
+        "bid": 80,
+        "bName": "颶風與沈眠之海",
+        "lists": [],
+        "percentages": [30, 51, 12, 7, 0],
+        "pickups": [664, 665, 666, 613, 610, 611, 667, 614],
+        "pickupPercentages": [2, 2, 0.5, 0.5, 0.5, 0.5, 2.5, 2.5],
+        "combinedBid": [2]
+    }
+]
