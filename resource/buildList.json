@@ -751,5 +751,14 @@
         "pickups": [664, 665, 666, 613, 610, 611, 667, 614],
         "pickupPercentages": [2, 2, 0.5, 0.5, 0.5, 0.5, 2.5, 2.5],
         "combinedBid": [2]
+    },
+    {
+        "bid": 81,
+        "bName": "星光下的餘暉",
+        "lists": [],
+        "percentages": [28.8, 51, 12, 7, 1.2],
+        "pickups": [669, 671, 673, 30042],
+        "pickupPercentages": [1.2, 2, 2.5, 0.5],
+        "combinedBid": [2]
     }
 ]
